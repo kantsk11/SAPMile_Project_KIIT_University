@@ -5,3 +5,6 @@ This is the repository of KIIT University Students for the SAPMile IoT competiti
 1. Smart City: "Monitoring toxic emission of Vehicles remotely" - 
 2. Home Automation: "Automatic Light Control" -
 3. Smart Healthcare: " Medicare" -
+4. 
+
+http://www.ksrm.ac.in/
