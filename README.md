@@ -1,4 +1,5 @@
 # SAPMile_Project_KIIT_University
+[KIIT](/image/Kiit.png)
 
 This is repository of KIIT University Students for the SAPMile IoT competition held by SAP Labs. The three projects are following:
 
