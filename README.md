@@ -21,7 +21,7 @@ This is repository of KIIT University Students for the SAPMile IoT competition h
 
 
 ## Contact:
- Dr. Prachet Bhuyan
+Dr. Prachet Bhuyan
 Email: pbhuyanfcs@kiit.ac.in
 Assoc. Professor,
 School of Comp. Engg.
