@@ -17,3 +17,14 @@ This is repository of KIIT University Students for the SAPMile IoT competition h
 "Smart pill container for medical adherence" 
 - [Smart Medicare](https://github.com/Abhishek-Acharya/SAP_HANA_HEALTHCARE_PILL_CONTINER)
 
+
+
+
+###Contact:
+Dr. Prachet Bhuyan
+Assoc. Professor, School of Comp. Engg.
+KIIT University,
+Bhubneshwar
+
+Email: pbhuyanfcs@kiit.ac.in
+
