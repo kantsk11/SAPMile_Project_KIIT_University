@@ -9,10 +9,10 @@ This is the repository of KIIT University Students for the SAPMile IoT competiti
 
 # 2. Home Automation:
 "Automatic Light Control" 
--https://github.com/madhuparnakiit/SAPMile_Project_Home_Automation_KIIT_University
+- https://github.com/madhuparnakiit/SAPMile_Project_Home_Automation_KIIT_University
 
 
 # 3. Smart Healthcare:
 "Smart pill container for medical adherence" 
--https://github.com/Abhishek-Acharya/SAP_HANA_HEALTHCARE_PILL_CONTINER
+- https://github.com/Abhishek-Acharya/SAP_HANA_HEALTHCARE_PILL_CONTINER
 
